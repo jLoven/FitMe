@@ -1,0 +1,4 @@
+INDEX VERSION 1.126+/Users/platypus/Desktop/java_fun/FitMe/.metadata/.plugins/org.eclipse.jdt.core
+3171244232.index
+4250036019.index
+3832409939.index

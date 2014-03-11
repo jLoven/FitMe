@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FitMe</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="TextBox1">Country Name</string>
+
+    <string-array name="countries_array">
+        <item>Afghanistan</item>
+        <item>Albania</item>
+        <item>Algeria</item>
+        <item>Andorra</item>
+        <item>Angola</item>
+        <item>Antigua and Barbuda</item>
+        <item>Argentina</item>
+        <item>Armenia</item>
+        <item>Aruba</item>
+        <item>Australia</item>
+        <item>Austria</item>
+        <item>Azerbaijan</item>
+        <item>Bahamas, The</item>
+        <item>Bahrain</item>
+        <item>Bangladesh</item>
+        <item>Barbados</item>
+        <item>Belarus</item>
+        <item>Belgium</item>
+        <item>Belize</item>
+        <item>Benin</item>
+        <item>Bhutan</item>
+        <item>Bolivia</item>
+    </string-array>
+
+</resources>
